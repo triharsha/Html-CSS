@@ -1,0 +1,36 @@
+.card1{
+    width: 150px;
+    height: 150px;
+    border: 2px solid blue;
+    padding: 20px 20px;
+    margin: 10px 10px;
+    background-color: chocolate;
+
+}
+
+.card2{
+    width: 200px;
+    height: 200px;
+    border: 4px dotted red;
+    padding: 30px 30px;
+    margin: 20px 20px;
+    background-color: cadetblue;
+
+}
+
+.card3{
+    width: 250px;
+    height: 250px;
+    border: 6px dashed green;
+    padding: 40px 40px;
+    margin: 30px 30px;
+    background-color: aqua;
+
+}
+
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+

@@ -1,0 +1,19 @@
+.profile1{
+    width: 400px;
+    height: 300px;
+    border: 2px solid blue;
+    padding: 20px 40px;
+    margin: 30px 30px;
+    box-sizing: border-box;
+}
+
+
+.profile2{
+    width: 400px;
+    height: 300px;
+    border: 2px solid red;
+    padding: 20px 40px;
+    margin: 30px 30px;
+    box-sizing: content-box;
+}
+
