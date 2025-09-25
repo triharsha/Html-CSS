@@ -8,3 +8,6 @@ Any modern web browser (Chrome, Firefox, Edge, etc.)
 # Topics Covered
 Basic HTML tags (headings, paragraphs, links, images, lists)  
 Tables and forms
+CSS Selectors - Basic Selectors, Combination Selectors, Pseudo Classes and Elements 
+Box Model
+
